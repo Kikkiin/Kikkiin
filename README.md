@@ -5,6 +5,8 @@
   
 👀 I’m very interested in learning new things! 
 
+🌍 In my free time, I enjoy hanging out with friends and family, love to eat good food and drink fine wine, being outdoors in nature, and I spend all my money on traveling as much as I can around this earth.
+
 🌱 Educated at Noroff, I am dedicated to continuous learning and improvement. I am fascinated by interaction design and user experience, striving to create solutions that are visually     appealing and easy to use. I’m currently learning about css, html and javascript.
 
 💼 My background in nursing has given me unique perspectives on the importance of clear communication and empathy, invaluable in the development process.
@@ -14,7 +16,7 @@
 🤝 I am always open to collaborations and new projects.
 
 📫 Feel free to reach out for collaborations, mentorship, or just a friendly chat about everything from front-end development to life's big questions. 
-  How to reach me : kristinkristiansen9@gmail.com / teams / discord.
+  How to reach me : kristinkristiansen9@gmail.com.
 
 
 
