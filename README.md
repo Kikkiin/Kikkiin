@@ -1,21 +1,21 @@
 # About Me
 
 👋 Hi, I’m @Kikkiin,
-  - an aspiring front-end developer based in Oslo, passionate about creating intuitive and appealing web applications. After a career in nursing, I found my calling in the world of       technology, where I combine my caring nature with a love for coding.
+ - A UX/UI girl with a background in front-end development. I enjoy designing intuitive and user-friendly interfaces and exploring how small design choices impact the user experience. My main tool is Figma, where I focus on wireframing, prototyping, and iterating on designs.
+
+💡 I find front-end development both exciting and challenging – I have a basic understanding of HTML, CSS, and JavaScript, which helps me bring my designs to life, but I enjoy working on the design process the most, focusing on user experience and visual storytelling.
   
 👀 I’m very interested in learning new things! 
 
-🌍 In my free time, I enjoy hanging out with friends and family, love to eat good food and drink fine wine, being outdoors in nature, and I spend all my money on traveling as much as I can around this earth.
+🌍 In my free time, I enjoy good food, fine wine, and traveling as much as I can.
 
-🌱 Educated at Noroff, I am dedicated to continuous learning and improvement. I am fascinated by interaction design and user experience, striving to create solutions that are visually     appealing and easy to use. I’m currently learning about css, html and javascript.
+🎨 I’m currently working on improving my skills in UX research and interaction design, and I’m always open to learning more about usability and accessibility in digital products.
+
+🌱 Educated at Noroff.
 
 💼 My background in nursing has given me unique perspectives on the importance of clear communication and empathy, invaluable in the development process.
 
-📚 Technologies I work with include HTML, CSS, JavaScript, with plans to soon delve into modern frameworks to further expand my skills.
-
-🤝 I am always open to collaborations and new projects.
-
-📫 Feel free to reach out for collaborations, mentorship, or just a friendly chat about everything from front-end development to life's big questions. 
+📫 Feel free to reach out if you’d like to discuss UX, design, or just have a chat about creative processes!
   How to reach me : kristinkristiansen9@gmail.com.
 
 
